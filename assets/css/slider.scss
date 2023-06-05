@@ -1,0 +1,23 @@
+.slider {
+    position: relative;
+  }
+  
+  .slider-content {
+    display: flex;
+    overflow-x: hidden;
+  }
+  
+  .slider img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .slider-controls {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .slider-controls button {
+    padding: 5px 10px;
+  }
+  
